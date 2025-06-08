@@ -1,2 +1,2 @@
 # gwmct
-A Simple Terminal For Wayland (Archlinux)
+A Simple Terminal For Wayland and X (Archlinux)
